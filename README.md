@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **myles.joubert8@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/myles-joubert-85a97a1b7](https://www.linkedin.com/in/myles-joubert-85a97a1b7)
+- 📄 Know about my experiences [on my LinkedIn!](https://www.linkedin.com/in/myles-joubert-85a97a1b7)
 
 - ⚡ Fun fact **I love technology, and helping people get stuff done that they want!**
 
