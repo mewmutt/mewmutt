@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mewmutt" alt="mewmutt" /></a> </p>
 
-- 🔭 I’m currently working on **Multi-Use applications in Python**
+- 🔭 I’m currently working on: **Multi-Use applications in Python, IT Administration**
 
-- 🌱 I’m currently learning **Computer Science in general, Development languages**
+- 🌱 I’m currently learning: **Computer Science in general, Development languages**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 💬 Ask me about: **Python, Backend programming, Development, Hiring, IT, Cybersecurity**
 
-- 💬 Ask me about **Python, Backend programming, Development, Hiring**
-
-- 📫 How to reach me **myles.joubert8@gmail.com**
+- 📫 How to reach me: **myles.joubert8@gmail.com** Or my [**Work Email!**](mjoubert.neamtech@gmail.com)
 
 - 📄 Know about my experiences [on my LinkedIn!](https://www.linkedin.com/in/myles-joubert-85a97a1b7)
 
-- ⚡ Fun fact **I love technology, and helping people get stuff done that they want!**
+- ⚡ Fun fact: **I love technology, and helping people get stuff done that they want!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
